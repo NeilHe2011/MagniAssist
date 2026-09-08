@@ -8,7 +8,7 @@ It features:
 
 The goal of this project is to reduce daily hassles by creating a hands free smart assistant.
 
-I designed this project for [Stardance!](https://stardance.hackclub.com/home). A program funded by HackClub where you can design/build anything you want and get it funded.
+I designed this project for [Stardance!](https://stardance.hackclub.com/home) A program funded by HackClub where you can design/build anything you want and get it funded.
 
 # CAD Model
 The case parts are connected by 8 M2.5 threaded inserts and bolts. The electronics enclosure for the chips/modules of MagniAssist will be removable; that way any upgrades/changes that will be made in the future will be possible.
@@ -30,6 +30,7 @@ Here's everything you will need to build MagniAssist:
 • 1x Switch
 • 8x M2.5 Threaded Inserts
 • 8x M2.5 Bolts
+• 15x 6x4mm Neodymium Magnets (Or 30x 6x2mm Neodymium Magnets which are more commonly found on Aliexpress)
 
 
 
