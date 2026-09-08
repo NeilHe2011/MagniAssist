@@ -14,6 +14,8 @@ I designed this project for [Stardance!](https://stardance.hackclub.com/home) A 
 The case parts are connected by 8 M2.5 threaded inserts and bolts. The electronics enclosure for the chips/modules of MagniAssist will be removable; that way any upgrades/changes that will be made in the future will be possible.
 
 <img width="887" height="444" alt="Screenshot 2026-09-08 172548" src="https://github.com/user-attachments/assets/2eef40ab-5f8e-44ec-8627-3cc7c19d850d" />
+<img width="869" height="446" alt="Screenshot 2026-09-08 173222" src="https://github.com/user-attachments/assets/2f561279-9c8f-4500-a8dc-f5a72d5a2f35" />
+
 
 # BOM
 
