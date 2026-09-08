@@ -15,3 +15,21 @@ The case parts are connected by 8 M2.5 threaded inserts and bolts. The electroni
 
 <img width="887" height="444" alt="Screenshot 2026-09-08 172548" src="https://github.com/user-attachments/assets/2eef40ab-5f8e-44ec-8627-3cc7c19d850d" />
 
+# BOM
+
+Here's everything you will need to build MagniAssist:
+
+• 1x Esp 32 C3 Supermini
+• 1x DF Player Mini
+• 1x MicroSD Card
+• 1x 5V 1A Type-c 18650 TP4056 Lithium Battery Charger
+• 1x 3.7V To 12V Mini DC Boost Converter Board (Output 5V)
+• 1x INMP441
+• 1x 1000mAh 1 cell 3.7v lipo battery
+• 1x 4 Ohm 3W Bass Speaker (27x17x18mm)
+• 1x Switch
+• 8x M2.5 Threaded Inserts
+• 8x M2.5 Bolts
+
+
+
