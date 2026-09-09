@@ -16,6 +16,10 @@ Everything is designed on Fusion360. The case parts are connected by 8 M2.5 thre
 <img width="887" height="444" alt="Screenshot 2026-09-08 172548" src="https://github.com/user-attachments/assets/2eef40ab-5f8e-44ec-8627-3cc7c19d850d" />
 <img width="869" height="446" alt="Screenshot 2026-09-08 173222" src="https://github.com/user-attachments/assets/2f561279-9c8f-4500-a8dc-f5a72d5a2f35" />
 
+# Wired Diagram
+Sorry for the messy wiring diagram. Wasn't sure on how to make it look nice and tidy. I've added a legend at the bottom for further clarity.
+<img width="576" height="399" alt="MagniAssist_WiredDiagram" src="https://github.com/user-attachments/assets/0ab8d53d-3ae6-472a-9918-179e23aff315" />
+
 
 # BOM
 
