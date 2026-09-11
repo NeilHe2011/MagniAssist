@@ -50,4 +50,4 @@ After placing in the speakers and the electronics enclosure you can now close th
 
 # Programming MagniAssist
 
-Now that MagniAssist is all assembled all that is left is programming it! You can get creative and program it to your hearts content!
+Now that MagniAssist is all assembled all that is left is programming it! You can get creative and program it however you want to your hearts content!
