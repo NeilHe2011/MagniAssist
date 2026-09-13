@@ -40,7 +40,7 @@ Here's everything you will need to build MagniAssist:
 - 1x Switch 
 - 8x M2.5 Threaded Inserts
 - 8x M2.5 Bolts
-- 15x 6x4mm Neodymium Magnets (Or 30x 6x2mm Neodymium Magnets which are more commonly found on Aliexpress)
+- 15x 6x4mm Neodymium Magnets (Or 30x 6x2mm Neodymium Magnets which are more commonly found on Aliexpress). [ALiexpress](https://www.aliexpress.com/item/1005010078861287.html?spm=a2g0o.productlist.main.4.53712374bPeTi5&aem_p4p_detail=2026091314035715252432685297640000247327&algo_pvid=f3b9f84f-aab5-402d-ad05-9f3929ebc882&algo_exp_id=f3b9f84f-aab5-402d-ad05-9f3929ebc882-3&pdp_ext_f=%7B%22order%22%3A%2226461%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NZD%217.03%211.74%21%21%2126.88%216.66%21%402101e56817893334376726503e0f3d%2112000051277344439%21sea%21NZ%216191201799%21X%211%210%21n_tag%3A-29919%3Bd%3Abd232e9e%3Bm03_new_user%3A-29895%3BpisId%3A5000000216539907&curPageLogUid=CfI5L9c9QubL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010078861287%7C_p_origin_prod%3A&search_p4p_id=2026091314035715252432685297640000247327_1)
 
 
 
